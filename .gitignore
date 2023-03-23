@@ -39,3 +39,7 @@
 
 ### xmake ###
 .xmake
+build
+
+### VisualStudioCode ###
+.vscode/*
