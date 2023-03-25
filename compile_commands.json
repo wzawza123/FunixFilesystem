@@ -1,0 +1,16 @@
+[
+{
+  "directory": "/home/potatomine/documents/os/course_design/Funix_filesystem",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-Iinclude/dev", "-Iinclude/kernel", "-o", "build/.objs/funix/linux/x86_64/release/src/dev/DeviceManager.cpp.o", "src/dev/DeviceManager.cpp"],
+  "file": "src/dev/DeviceManager.cpp"
+},
+{
+  "directory": "/home/potatomine/documents/os/course_design/Funix_filesystem",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-Iinclude/dev", "-Iinclude/kernel", "-o", "build/.objs/funix/linux/x86_64/release/src/dev/ATADriver.cpp.o", "src/dev/ATADriver.cpp"],
+  "file": "src/dev/ATADriver.cpp"
+},
+{
+  "directory": "/home/potatomine/documents/os/course_design/Funix_filesystem",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-Iinclude/dev", "-Iinclude/kernel", "-o", "build/.objs/funix/linux/x86_64/release/src/kernel/main.cpp.o", "src/kernel/main.cpp"],
+  "file": "src/kernel/main.cpp"
+}]
